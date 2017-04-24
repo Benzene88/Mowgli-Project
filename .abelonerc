@@ -1,0 +1,8 @@
+{
+  "url": "https://www.gutenberg.org/files/236/236-h.zip",
+  "basename": "236-h",
+  "dir": "https://www.gutenberg.org/files/236",
+  "compressor": ".zip",
+  "START_PAGE": "9",
+  "repo_url": "https://github.com/marvindanig/the-jungle-book.git"
+}
