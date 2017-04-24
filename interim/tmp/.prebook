@@ -8,11 +8,11 @@
     "len": 3
   },
   "2": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0010}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0010}.jpg",
     "len": ""
   },
   "3": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5004}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5004}.jpg",
     "len": ""
   },
   "4": {
@@ -24,7 +24,7 @@
     "len": 0
   },
   "6": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5015}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5015}.jpg",
     "len": ""
   },
   "7": {
@@ -44,7 +44,7 @@
     "len": 69
   },
   "11": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0025}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0025}.jpg",
     "len": ""
   },
   "12": {
@@ -204,7 +204,7 @@
     "len": 40
   },
   "51": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0031}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0031}.jpg",
     "len": ""
   },
   "52": {
@@ -248,7 +248,7 @@
     "len": 60
   },
   "62": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5029}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5029}.jpg",
     "len": ""
   },
   "63": {
@@ -280,7 +280,7 @@
     "len": 58
   },
   "70": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0037}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0037}.jpg",
     "len": ""
   },
   "71": {
@@ -344,7 +344,7 @@
     "len": 20
   },
   "86": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5038}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5038}.jpg",
     "len": ""
   },
   "87": {
@@ -376,7 +376,7 @@
     "len": 66
   },
   "94": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0043}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0043}.jpg",
     "len": ""
   },
   "95": {
@@ -576,7 +576,7 @@
     "len": 59
   },
   "144": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5054}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5054}.jpg",
     "len": ""
   },
   "145": {
@@ -736,7 +736,7 @@
     "len": 28
   },
   "184": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5066}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5066}.jpg",
     "len": ""
   },
   "185": {
@@ -780,7 +780,7 @@
     "len": 130
   },
   "195": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0067}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0067}.jpg",
     "len": ""
   },
   "196": {
@@ -1056,7 +1056,7 @@
     "len": 49
   },
   "264": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5090}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5090}.jpg",
     "len": ""
   },
   "265": {
@@ -1400,7 +1400,7 @@
     "len": 70
   },
   "350": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5117}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5117}.jpg",
     "len": ""
   },
   "351": {
@@ -1456,7 +1456,7 @@
     "len": 42
   },
   "364": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5125}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5125}.jpg",
     "len": ""
   },
   "365": {
@@ -1696,7 +1696,7 @@
     "len": 61
   },
   "424": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0113}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0113}.jpg",
     "len": ""
   },
   "425": {
@@ -1792,7 +1792,7 @@
     "len": 41
   },
   "448": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0119}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0119}.jpg",
     "len": ""
   },
   "449": {
@@ -1852,7 +1852,7 @@
     "len": 55
   },
   "463": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5152}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5152}.jpg",
     "len": ""
   },
   "464": {
@@ -1868,7 +1868,7 @@
     "len": 13
   },
   "467": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0125}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0125}.jpg",
     "len": ""
   },
   "468": {
@@ -1952,7 +1952,7 @@
     "len": 66
   },
   "488": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0130}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0130}.jpg",
     "len": ""
   },
   "489": {
@@ -2076,7 +2076,7 @@
     "len": 42
   },
   "519": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5171}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5171}.jpg",
     "len": ""
   },
   "520": {
@@ -2144,7 +2144,7 @@
     "len": 50
   },
   "536": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0141}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0141}.jpg",
     "len": ""
   },
   "537": {
@@ -2172,7 +2172,7 @@
     "len": 26
   },
   "543": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5179}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5179}.jpg",
     "len": ""
   },
   "544": {
@@ -2240,7 +2240,7 @@
     "len": 54
   },
   "560": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0146}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0146}.jpg",
     "len": ""
   },
   "561": {
@@ -2272,7 +2272,7 @@
     "len": 91
   },
   "568": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0149}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0149}.jpg",
     "len": ""
   },
   "569": {
@@ -2364,7 +2364,7 @@
     "len": 56
   },
   "591": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0157}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0157}.jpg",
     "len": ""
   },
   "592": {
@@ -2508,7 +2508,7 @@
     "len": 47
   },
   "627": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{9166}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{9166}.jpg",
     "len": ""
   },
   "628": {
@@ -2652,7 +2652,7 @@
     "len": 47
   },
   "663": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0174}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0174}.jpg",
     "len": ""
   },
   "664": {
@@ -2936,7 +2936,7 @@
     "len": 74
   },
   "734": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0195}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0195}.jpg",
     "len": ""
   },
   "735": {
@@ -2976,7 +2976,7 @@
     "len": 42
   },
   "744": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{8197}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{8197}.jpg",
     "len": ""
   },
   "745": {
@@ -3004,7 +3004,7 @@
     "len": 46
   },
   "751": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0198}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0198}.jpg",
     "len": ""
   },
   "752": {
@@ -3024,7 +3024,7 @@
     "len": 46
   },
   "756": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0199}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0199}.jpg",
     "len": ""
   },
   "757": {
@@ -3036,7 +3036,7 @@
     "len": 89
   },
   "759": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{9200}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{9200}.jpg",
     "len": ""
   },
   "760": {
@@ -3052,7 +3052,7 @@
     "len": 53
   },
   "763": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0201}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0201}.jpg",
     "len": ""
   },
   "764": {
@@ -3080,7 +3080,7 @@
     "len": 39
   },
   "770": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0203}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0203}.jpg",
     "len": ""
   },
   "771": {
@@ -3088,7 +3088,7 @@
     "len": 91
   },
   "772": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5250}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5250}.jpg",
     "len": ""
   },
   "773": {
@@ -3108,7 +3108,7 @@
     "len": 7
   },
   "777": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0207}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0207}.jpg",
     "len": ""
   },
   "778": {
@@ -3172,7 +3172,7 @@
     "len": 79
   },
   "793": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0212}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0212}.jpg",
     "len": ""
   },
   "794": {
@@ -3272,7 +3272,7 @@
     "len": 25
   },
   "818": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0217}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0217}.jpg",
     "len": ""
   },
   "819": {
@@ -3352,7 +3352,7 @@
     "len": 10
   },
   "838": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0221}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0221}.jpg",
     "len": ""
   },
   "839": {
@@ -3456,7 +3456,7 @@
     "len": 32
   },
   "864": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0227}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0227}.jpg",
     "len": ""
   },
   "865": {
@@ -3508,7 +3508,7 @@
     "len": 27
   },
   "877": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0230}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0230}.jpg",
     "len": ""
   },
   "878": {
@@ -3556,7 +3556,7 @@
     "len": 45
   },
   "889": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0237}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0237}.jpg",
     "len": ""
   },
   "890": {
@@ -3592,7 +3592,7 @@
     "len": 49
   },
   "898": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0239}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0239}.jpg",
     "len": ""
   },
   "899": {
@@ -3620,7 +3620,7 @@
     "len": 80
   },
   "905": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5291}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5291}.jpg",
     "len": ""
   },
   "906": {
@@ -3740,7 +3740,7 @@
     "len": 39
   },
   "935": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0255}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0255}.jpg",
     "len": ""
   },
   "936": {
@@ -3892,7 +3892,7 @@
     "len": 62
   },
   "973": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0010}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0010}.jpg",
     "len": ""
   },
   "974": {
@@ -3916,7 +3916,7 @@
     "len": 42
   },
   "979": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5317}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5317}.jpg",
     "len": ""
   },
   "980": {
@@ -3960,7 +3960,7 @@
     "len": 51
   },
   "990": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0271}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0271}.jpg",
     "len": ""
   },
   "991": {
@@ -4044,7 +4044,7 @@
     "len": 55
   },
   "1011": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{5332}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{5332}.jpg",
     "len": ""
   },
   "1012": {
@@ -4076,7 +4076,7 @@
     "len": 42
   },
   "1019": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0279}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0279}.jpg",
     "len": ""
   },
   "1020": {
@@ -4108,7 +4108,7 @@
     "len": 98
   },
   "1027": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0285}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0285}.jpg",
     "len": ""
   },
   "1028": {
@@ -4140,7 +4140,7 @@
     "len": 51
   },
   "1035": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0287}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0287}.jpg",
     "len": ""
   },
   "1036": {
@@ -4264,7 +4264,7 @@
     "len": 36
   },
   "1066": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0295}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0295}.jpg",
     "len": ""
   },
   "1067": {
@@ -4324,7 +4324,7 @@
     "len": 45
   },
   "1081": {
-    "img": "https://github.com/marvindanig/the-jungle-book.git/images/{0299}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-jungle-book/master/assets/images/{0299}.jpg",
     "len": ""
   },
   "1082": {

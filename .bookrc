@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "the-jungle-book",
-  "type": "text"
+  "name": "The Jungle Book",
+  "type": "text",
+  "book_id": 394
 }
