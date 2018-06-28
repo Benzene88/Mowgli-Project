@@ -5,7 +5,6 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "The Jungle Book",
-  "type": "text",
-  "book_id": 394
+  "name": "Mowgli's Brothers",
+  "type": "text"
 }
